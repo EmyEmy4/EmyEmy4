@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmyEmy4
 - 👀 I’m interested in DL-ML-AI
-- 🌱 I’m currently learning DS
+- 🌱 Doing internship n ML and DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - emimahgiftymd@gmail.com
 
